@@ -39,12 +39,13 @@ Two option are available to obtain the firmware:
 
 ### 3. Downloading the Firmware
 - [Unofficial ROM Site](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20ACE%205/)
-- [ColorOS_PKG110_15.0.0.405](https://gauss-compotacostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip)
-    ```shell
-    curl -# -O -C - https://gauss-compotacostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip
-    ```
-    - aria2app is recommended for downloading large files.
+1. Download the firmware using the following link
 
+    https://gauss-compotacostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip
+
+    - Aria2app is recommended for downloading.
+
+        https://t.me/gt3neo5hub/521/229188
 
 ## Flashing OxygenOS Firmware
 - Fastboot Firmware Flasher is required for flashing process.
@@ -98,7 +99,7 @@ Two option are available to obtain the firmware:
 5. Your device is now fully compatible with the camera.
     ![Camera](assets/OxygenOS_camera.jpg)
 
-## For "complete" conversion
+## For "complete" Conversion
 - Since my_company.img and my_prelaod.img are not included in the OTA package, the conversion is not "complete".
 - Those files are required for pre-installed apps, but they are not necessary for the device to function.
 - If you have those files, you can flash them using the same method as odm.img.
