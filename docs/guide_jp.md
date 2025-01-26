@@ -109,7 +109,6 @@
     ![Camera](assets/OxygenOS_camera.jpg)
 
 ## ”完全な” OxygenOSへのConvert (任意）
-)
 - OTAパッケージには```my_company.img```と```my_preload.img```が含まれていないため、Convertは ”完全な”ものではありません。
 - これらのファイルはプリインストールアプリに必要ですが、端末の基本的な動作には必須ではありません。
 - ファイルがある場合、```odm.img```と同じ方法でflashできます。
