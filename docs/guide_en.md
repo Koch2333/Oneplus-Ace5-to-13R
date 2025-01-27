@@ -44,6 +44,12 @@ Two option are available to obtain the firmware:
 
         https://t.me/gt3neo5hub/521/229188
 
+        - set following global options in Aria2app
+            - ```max-connection-per-server=16```
+            - ```split=16```
+
+        - Select ```Add URL``` from the plus icon in the bottom right corner, then paste the link and start downloading.
+
 2. Unpack the downloaded firmware using Fastboot Firmware Flasher
     ![Firmware Unpacker](assets/FFF_unpack_select.png)
 
