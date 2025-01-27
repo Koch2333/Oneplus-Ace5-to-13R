@@ -24,7 +24,7 @@ Guide for Converting OnePlus Ace 5 to OnePlus 13R
 - Everything seems to works fine (testing is still in progress)
 
 ## To Do
-- 
+- Convertion script for Ubuntu
 
 ## Thanks
 - [ROM焼き試験場](https://mitanyan98.hatenablog.com/)
