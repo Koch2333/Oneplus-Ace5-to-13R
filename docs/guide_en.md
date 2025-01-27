@@ -50,6 +50,11 @@ Two option are available to obtain the firmware:
 
         - Select ```Add URL``` from the plus icon in the bottom right corner, then paste the link and start downloading.
 
+    - Or use the following command in terminal. (aria2 is required)
+        ```shell
+        aria2c -x 16 -s 16 --continue=true --max-tries=10 --retry-wait=5  https://gauss-compotacostauto-cn.allawnfs.com/remove-7955272e42856dfa19471f0a3a6d7885/component-ota/25/01/08/781337963e6c450ab363895ef9bcfa60.zip
+        ```
+
 2. Unpack the downloaded firmware using Fastboot Firmware Flasher
     ![Firmware Unpacker](assets/FFF_unpack_select.png)
 
