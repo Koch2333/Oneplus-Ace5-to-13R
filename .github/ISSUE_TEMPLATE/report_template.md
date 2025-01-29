@@ -25,5 +25,7 @@ labels: report
 ## Additional Notes
 - (Any additional context, logs, or screenshots that might help others)
 
+## Photos
+
 ## Suggestions for Improvement
 - (Your suggestions for improving the guide or tools)
