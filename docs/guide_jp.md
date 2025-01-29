@@ -2,6 +2,9 @@
 - 実証環境: ```ColorOS_PKG110_15.0.0.405```から```OxygenOS_CPH2691_15.0.0.403```への変換
 - OxygenOSのファームウェアをflashするだけではカメラは正常に動作しません。カメラの完全な互換性のためにはColorOSの```odm.img```のflashが必要です。
 
+## Convertion Report
+- Convertの結果を共有してください。[Report Template](https://github.com/kinginu/Oneplus-Ace5-to-13R/issues/new?template=report_template.md）
+
 ## Bootloader Unlock
 - ブートローダーをアンロックすると、端末が初期化されます。
 

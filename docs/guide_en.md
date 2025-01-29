@@ -2,6 +2,10 @@
 - Tested environment: ColorOS_PKG110_15.0.0.405 to OxygenOS_CPH2691_15.0.0.403
 - Camera will not work with only flashing OxygenOS firmware, ```odm.img``` from original ColorOS is required for complete camera compatibility.
 
+## Conversion Report
+- If you have converted your device, please share your experience with us.
+    [Report Template](https://github.com/kinginu/Oneplus-Ace5-to-13R/issues/new?template=report_template.md)
+
 ## Bootloader Unlock
 - Unlocking the bootloader will factory reset your device.
 1. enable developer options
