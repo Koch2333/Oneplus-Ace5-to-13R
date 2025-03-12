@@ -4,7 +4,7 @@
 
 ## Conversion Report
 - If you have converted your device, please share your experience with us.
-    [Report Template](https://github.com/kinginu/Oneplus-Ace5-to-13R/issues/new?template=report_template.md)
+    [Convert Report Template](https://github.com/kinginu/Oneplus-Ace5-to-13R/issues/new?template=convert_report_template.md)
 
 ## Bootloader Unlock
 - Unlocking the bootloader will factory reset your device.
@@ -66,7 +66,7 @@ Two option are available to obtain the firmware:
     ![Firmware Unpacker](assets/FFF_unpack_done.png)
 
 4. Open destination folder and copy the ```odm.img``` file.
-    - ```odm.img``` is located at FastbootFirmwareFlasher/FIRMWARE/SYSTEM/odm.img
+    - ```odm.img``` is located at ```FastbootFirmwareFlasher/FIRMWARE/SYSTEM/odm.img```
 
 
 ### Option 2. Extracting the Firmware
@@ -123,7 +123,7 @@ Two option are available to obtain the firmware:
     ```
 
 5. Your device is now fully compatible with the camera.
-    ![Camera](assets/OxygenOS_Camera.jpg)
+
 
 ## For "complete" Conversion (optional)
 - Since```my_company.img```and```my_prelaod.img```are not included in the OTA package, the conversion is not "complete".
