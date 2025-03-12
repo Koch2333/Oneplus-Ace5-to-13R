@@ -128,6 +128,7 @@ Two option are available to obtain the firmware:
 ## For "complete" Conversion (optional)
 - Since```my_company.img```and```my_prelaod.img```are not included in the OTA package, the conversion is not "complete".
 - Those files are required for pre-installed apps, but they are not necessary for the device to function.
+- **Note:** The tool adds empty ```my_preload.img``` and ```my_company.img``` files which do not contain any regional apps.
 - If you have those files, you can flash them using the same method as```odm.img```.
     ```shell
     adb reboot fastboot
