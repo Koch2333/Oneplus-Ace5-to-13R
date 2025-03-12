@@ -99,7 +99,7 @@ Two option are available to obtain the firmware:
     ![Firmware Flasher](assets/FFF_flash_complete.png)
 
 8. Your device is now converted to OnePlus 13R.
-    ![About Device](assets/OxygenOS_about_device.jpg)
+    ![About Device](assets/OxygenOS_About_device.jpg)
     - The OS version is displayed as "OxgenOS 15.0", but the Battery and Camera configration is OnePlus Ace5.
 
 
@@ -123,7 +123,7 @@ Two option are available to obtain the firmware:
     ```
 
 5. Your device is now fully compatible with the camera.
-    ![Camera](assets/OxygenOS_camera.jpg)
+    ![Camera](assets/OxygenOS_Camera.jpg)
 
 ## For "complete" Conversion (optional)
 - Since```my_company.img```and```my_prelaod.img```are not included in the OTA package, the conversion is not "complete".
