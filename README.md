@@ -21,7 +21,8 @@ Guide for Converting OnePlus Ace 5 to OnePlus 13R
 - Android Auto
 
 ## What Doesn't Work
-- Everything seems to works fine (testing is still in progress)
+- OTA (if you flash odm.img from ColorOS)
+- (testing is still in progress)
 
 ## To Do
 - Convertion script for Ubuntu
