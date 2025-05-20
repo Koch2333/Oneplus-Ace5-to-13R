@@ -9,6 +9,7 @@ Guide for Converting OnePlus Ace 5 to OnePlus 13R
 
 ## Tools
 - [Fastboot Firmware Flasher Ver:1.0.0.7](https://t.me/gt3neo5hub/521/207068)
+- [Fastboot Firmware Flasher Ver:1.0.1.3](https://t.me/gt3neo5hub/521/269449)
 
 ## Hardware tested
 - OnePlus Ace5 PKG100 (12GB RAM / 256GB Storage)
@@ -23,6 +24,10 @@ Guide for Converting OnePlus Ace 5 to OnePlus 13R
 ## What Doesn't Work
 - OTA (if you flash odm.img from ColorOS)
 - (testing is still in progress)
+
+## Important Notes
+- If you do not flash 'odm.img' from ColorOS, OTA updates, Google Pay, and Play Integrity checks will work correctly after the conversion and bootloader relocking.
+✅ Confirmed by @AstralPhnx — many thanks for the detailed report and testing!
 
 ## To Do
 - Convertion script for Ubuntu
