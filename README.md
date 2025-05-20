@@ -27,7 +27,7 @@ Guide for Converting OnePlus Ace 5 to OnePlus 13R
 
 ## Important Notes
 - If you do not flash 'odm.img' from ColorOS, OTA updates, Google Pay, and Play Integrity checks will work correctly after the conversion and bootloader relocking.
-✅ Confirmed by @AstralPhnx — many thanks for the detailed report and testing!
+✅ Confirmed by [@AstralPhnx](https://github.com/kinginu/Oneplus-Ace5-to-13R/issues/25) — many thanks for the detailed report and testing!
 
 ## To Do
 - Convertion script for Ubuntu
