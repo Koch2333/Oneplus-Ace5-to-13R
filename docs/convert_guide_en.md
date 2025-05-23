@@ -1,3 +1,5 @@
+**English** | [日本語](convert_guide_jp.md) | [简体中文](convert_guide_zh.md)
+
 # Converting OnePlus Ace 5 to OnePlus 13R
 - Tested environment: ColorOS_PKG110_15.0.0.405 to OxygenOS_CPH2691_15.0.0.403
 - Camera will not work with only flashing OxygenOS firmware, ```odm.img``` from original ColorOS is required for complete camera compatibility.
