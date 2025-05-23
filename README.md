@@ -9,7 +9,6 @@ Guide for Converting OnePlus Ace 5 to OnePlus 13R
 - [Guide (ZH)](docs/convert_guide_zh.md)
 - [Guide (EN)](docs/convert_guide_en.md)
 - [Guide (JP)](docs/convert_guide_jp.md)
-- [Guide (ZH)](docs/convert_guide_zh.md)
 
 ## Tools
 - [Fastboot Firmware Flasher Ver:1.0.0.7](https://t.me/gt3neo5hub/521/207068)
