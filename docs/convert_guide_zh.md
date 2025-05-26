@@ -1,3 +1,5 @@
+[English](convert_guide_en.md) | [日本語](convert_guide_jp.md) | **简体中文**
+
 # 将 OnePlus Ace 5 转换至 OnePlus 13R
 - 测试环境: ColorOS_PKG110_15.0.0.405 to OxygenOS_CPH2691_15.0.0.403
 - 若只刷入OxygenOS固件，相机将无法使用, 来自原ColorOS的```odm.img```对于完整的相机功能是必要的。

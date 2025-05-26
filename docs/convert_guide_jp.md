@@ -1,3 +1,5 @@
+[English](convert_guide_en.md) | **日本語** | [简体中文](convert_guide_zh.md)
+
 # OnePlus Ace5から13RへのConvert
 - 実証環境: ```ColorOS_PKG110_15.0.0.405```から```OxygenOS_CPH2691_15.0.0.403```への変換
 - OxygenOSのファームウェアをflashするだけではカメラは正常に動作しません。カメラの完全な互換性のためにはColorOSの```odm.img```のflashが必要です。

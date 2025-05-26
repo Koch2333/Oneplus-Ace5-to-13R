@@ -1,9 +1,12 @@
+**English** | [简体中文](README_CN.md)
+
 # Oneplus-Ace5-to-13R
 Guide for Converting OnePlus Ace 5 to OnePlus 13R
 
 <a href="https://www.buymeacoffee.com/kinginu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Contents
+- [Guide (ZH)](docs/convert_guide_zh.md)
 - [Guide (EN)](docs/convert_guide_en.md)
 - [Guide (JP)](docs/convert_guide_jp.md)
 - [Guide (ZH)](docs/convert_guide_zh.md)
