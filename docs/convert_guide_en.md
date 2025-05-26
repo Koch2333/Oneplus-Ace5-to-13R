@@ -91,7 +91,7 @@ Two option are available to obtain the firmware:
 4. Select Firmware Flasher and start flashing.
     ![Firmware Flasher](assets/FFF_flash_fastboot.png)
 
-5. After first stage finished, device will automatically reboot into fastboodD mode.
+5. After first stage finished, device will automatically reboot into fastbootD mode.
     ![Firmware Flasher](assets/FFF_flash_firststage.png)
 
 6. Start second stage after your device is ready.
